@@ -8,3 +8,6 @@ Made by Y7XIFIED
 
 ## Live Deployment
 This project is automatically deployed to Vercel.
+
+## Preview
+<video src="assets/preview.mp4" controls="controls" muted="muted" style="max-height:640px;"></video>
