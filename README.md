@@ -1,13 +1,14 @@
-# Grid Pointer
+# grid-pointer
 
 Made by Y7XIFIED
+
+## Live Deployment
+[Live Preview on Vercel](https://grid-pointer.vercel.app)
 
 ## Local Development
 1. Run `npm install`
 2. Run `npm run dev`
-
-## Live Deployment
-This project is automatically deployed to Vercel.
+3. Open the project in your browser at the provided localhost URL.
 
 ## Preview
-<video src="assets/preview.mp4" controls="controls" muted="muted" style="max-height:640px;"></video>
+![Preview Demo](preview.gif)
