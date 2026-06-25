@@ -1,14 +1,13 @@
-# grid-pointer
+<h3 align="center"><b>GRID POINTER</b></h3>
 
-Made by Y7XIFIED
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite" /></p>
 
-## Live Deployment
-[Live Preview on Vercel](https://grid-pointer.vercel.app)
+Dive into a mesmerizing, interactive grid experience! Watch as the grid reacts seamlessly to your cursor's every move. It's a visually stunning and dynamic web experiment built with vanilla web technologies to bring some extra life to the browser.
 
-## Local Development
-1. Run `npm install`
-2. Run `npm run dev`
-3. Open the project in your browser at the provided localhost URL.
+## 🚀 Live Website
+Experience the fully interactive website live here: [https://grid-pointer.vercel.app](https://grid-pointer.vercel.app)
 
 ## Preview
 ![Preview Demo](preview.gif)
+
+<div align="center"><p>Y7XIFIED</p></div>
