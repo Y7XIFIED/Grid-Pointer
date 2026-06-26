@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite" /></p>
 
-Dive into a mesmerizing, interactive grid experience! Watch as the grid reacts seamlessly to your cursor's every move. It's a visually stunning and dynamic web experiment built with vanilla web technologies to bring some extra life to the browser.
+Step into a world of dynamic motion and fluid interactions. A purely fun and wildly creative web experiment.
 
 ## 🚀 Live Website
 Experience the fully interactive website live here: [https://grid-pointer.vercel.app](https://grid-pointer.vercel.app)
