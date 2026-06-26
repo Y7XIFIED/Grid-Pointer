@@ -41,20 +41,20 @@ Grid-Pointer/
 │   ├── fonts
 │   │   └── Nasalization Rg.otf
 │   └── img
-│       ├── @7Field_jpg on instagram.jpg
-│       ├── @visual_dreamz.jpg
-│       ├── Ascent through fall.jpg
-│       ├── august sun _ @lndnlryq.jpg
-│       ├── download (1).jpg
-│       ├── download (2).jpg
-│       ├── download (3).jpg
-│       ├── download (4).jpg
-│       ├── download.jpg
-│       ├── Frasurbane Project No_ 7.jpg
-│       ├── HELLO87.jpg
-│       ├── Jellyfish.jpg
-│       ├── MIDJOURNEY promt smoky butterfly.jpg
-│       └── rp theme by esprectos on ig.jpg
+│       ├── 1.jpg
+│       ├── 10.jpg
+│       ├── 11.jpg
+│       ├── 12.jpg
+│       ├── 13.jpg
+│       ├── 14.jpg
+│       ├── 2.jpg
+│       ├── 3.jpg
+│       ├── 4.jpg
+│       ├── 5.jpg
+│       ├── 6.jpg
+│       ├── 7.jpg
+│       ├── 8.jpg
+│       └── 9.jpg
 ├── favicon.png
 ├── index.html
 ├── main.css
